@@ -23,8 +23,8 @@ See hover and focus states for all interactive elements on the page
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com](https://github.com/egyzilla/single-price-grid-component)
-- Live Site URL: [here](https://your-live-site-url.com](https://egyzilla.github.io/single-price-grid-component)
+- [Solution](https://github.com/egyzilla/single-price-grid-component)
+- [Live Site](https://egyzilla.github.io/single-price-grid-component/)
 
 ## My process
 
